@@ -1,1 +1,1 @@
-Marshmallow vendor blobs from offical Cubot Rainbow V03
+Marshmallow vendor blobs from offical Cubot NOTE S V06
