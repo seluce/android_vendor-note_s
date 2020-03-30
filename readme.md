@@ -8,4 +8,3 @@ FM Radio fix
  fix gallery issues with grey squares
 - lib/libMtkOmxVdecEx.so
 - lib/libMtkOmxVenc.so
-
